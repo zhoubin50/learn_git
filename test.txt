@@ -4,3 +4,4 @@ three line
 dddd55555
 6
 77777
+git2 insert 8888
